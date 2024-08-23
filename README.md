@@ -20,9 +20,8 @@
 ![NN in Pytorch for disease prediction](https://github.com/DaviGiordano/Disease-Prediction-With-NN/blob/main/p1.ipynb)
 
 ![CNN for classification](https://github.com/DaviGiordano/CNN-Classifying-Grains-of-Rice/blob/main/class_alinha.ipynb)
-
-- 👁️ Other projects
-- 
+ 
+👁️ Other projects
 ![Voice Over Vision](https://github.com/voice-over-vision): With the mission of making the internet more accessible, Voice-Over Vision is a Chrome extension that creates automatic contextualized audio descriptions on demand, for any video on YouTube, using advanced video processing and LLMs with RAG:
 
 
