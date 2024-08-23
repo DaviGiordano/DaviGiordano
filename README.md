@@ -23,7 +23,8 @@
  
 👁️ Other projects
 
-![Voice Over Vision](https://github.com/voice-over-vision): With the mission of making the internet more accessible, Voice-Over Vision is a Chrome extension that creates automatic contextualized audio descriptions on demand, for any video on YouTube, using advanced video processing and LLMs with RAG:
+![Voice Over Vision](https://github.com/voice-over-vision)
+With the mission of making the internet more accessible, Voice-Over Vision is a Chrome extension that creates automatic contextualized audio descriptions on demand, for any video on YouTube, using advanced video processing and LLMs with RAG:
 
 
 
