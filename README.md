@@ -6,7 +6,7 @@
 
 - 🔭 Currently working on my MSc thesis on Counterfactual Fairness for Machine Learning Models, in collaboration with Fraunhfer AICOS.
 
--🛠️ Here are some reports on relevant previous coursework about Machine Learning, Deep Learning, Statistics and Computing:
+- 🛠️ Here are some reports on relevant previous coursework about Machine Learning, Deep Learning, Statistics and Computing:
 
 - ![Multi-Agent Systems Predator-Prey Game](https://github.com/DaviGiordano/predator-prey-multi-agent/blob/main/Final%20Report%20-%20Analyzing%20Predator%20Strategies%20in%20a%20Predator-Prey%20Game.pdf)
 - ![Cloud Computing with Java](https://github.com/Cloud-VFX/Cloud-VFX/blob/master/Implemented%20Systems%20and%20Experiments%20-%20Cloud-VFX.pdf)
@@ -17,8 +17,8 @@
 - ![CNN for classification](https://github.com/DaviGiordano/CNN-Classifying-Grains-of-Rice/blob/main/class_alinha.ipynb)
 
 - 👁️ Other projects
-- With the mission of making the internet more accessible, Voice-Over Vision is a Chrome extension that creates automatic contextualized audio descriptions on demand, for any video on YouTube, using advanced video processing and LLMs with RAG
-![Voice Over Vision](https://github.com/voice-over-vision)
+- ![Voice Over Vision](https://github.com/voice-over-vision)
+With the mission of making the internet more accessible, Voice-Over Vision is a Chrome extension that creates automatic contextualized audio descriptions on demand, for any video on YouTube, using advanced video processing and LLMs with RAG:
 
 
 
