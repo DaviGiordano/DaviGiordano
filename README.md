@@ -1,4 +1,5 @@
-## Hi!👋 My name is Davi, I`m a Computer Science MSc student at Instituto Superior Técnico - ULisboa.
+## Hi!👋
+### My name is Davi, I`m a Computer Science MSc student at Instituto Superior Técnico - ULisboa.
 
 ⚡ I really enjoy solving complex problems and making a positive difference. I specialize in Machine Learning and AI, and I find Math and Statistics beautiful;
 
