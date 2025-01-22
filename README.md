@@ -12,9 +12,9 @@
   - [Voice Over Vision](https://github.com/voice-over-vision)
 
 - Pytorch: Logistic Regression, MLP, Feed-Forward NN, CNN, LSTM, Transformers
-  - [Deep Learning coursework 1](https://github.com/DaviGiordano/deep-learning-practice-1/blob/main/homework1/Deep_Learning_Homework_1_Report.pdf)
-  - [Deep Learning coursework 2](https://github.com/DaviGiordano/deep-learning-practice-1/blob/main/homework2/DL_Homework_2_Report_Davi_Vicente.pdf)  
-  - [NN in Pytorch for disease prediction](https://github.com/DaviGiordano/Disease-Prediction-With-NN/blob/main/p1.ipynb)  
+  - [Deep Learning 1](https://github.com/DaviGiordano/deep-learning-practice-1/blob/main/homework1/Deep_Learning_Homework_1_Report.pdf)
+  - [Deep Learning 2](https://github.com/DaviGiordano/deep-learning-practice-1/blob/main/homework2/DL_Homework_2_Report_Davi_Vicente.pdf)  
+  - [NN for disease prediction](https://github.com/DaviGiordano/Disease-Prediction-With-NN/blob/main/p1.ipynb)  
 
 - Homographies, SIFT, opencv, open3d, depth-pro (monocular depth estimation), VGGSfm (Structure from Motion - point cloud estimation)
   - [Panorama Stitching and Point Cloud Registration](https://github.com/DaviGiordano/Image-Processing-and-Vision/blob/main/description_of_work.pdf)
