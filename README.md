@@ -21,6 +21,9 @@
 
 - Word embeddings, TFIDF, Word2Vec, Bert transformer, SCV, LightGBM
   - [NLP Movie Genre estimation](https://github.com/DaviGiordano/movie-genre-estimation/blob/main/report/35.pdf)
+ 
+- AWS Cloud, Java, Load Balancing
+  - [Cloud Computing with Java](https://github.com/Cloud-VFX/Cloud-VFX/blob/master/Implemented%20Systems%20and%20Experiments%20-%20Cloud-VFX.pdf)
 
 - Dafny, Proof by Induction, Alloy, Tree algorithms, Ring algorithms
   - Formal Software Specification [link1](https://github.com/joserlopes/Software-Specification-Dafny) [link2](https://github.com/joserlopes/Software-Specification-Alloy)
@@ -30,9 +33,6 @@
   
 - Multi-agent systems, Deep Reinforcement Learning, Predator-Prey problem
   - [Multi-Agent Systems Predator-Prey Game](https://github.com/DaviGiordano/predator-prey-multi-agent/blob/main/Final%20Report%20-%20Analyzing%20Predator%20Strategies%20in%20a%20Predator-Prey%20Game.pdf)
-
-- AWS Cloud, Java, Load Balancing
-  - [Cloud Computing with Java](https://github.com/Cloud-VFX/Cloud-VFX/blob/master/Implemented%20Systems%20and%20Experiments%20-%20Cloud-VFX.pdf)
 
 - Bayesian Statistics, Markov Chain Monte Carlo method
   - [Bayesian Regression to predict infection](https://github.com/DaviGiordano/modeling-risk-infection/blob/main/Computational_Statistics_Report_Davi_Lenka.pdf)
